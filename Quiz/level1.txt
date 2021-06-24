@@ -1,0 +1,8 @@
+1,Where was COVID-19 first detected?,China,Japan,Limpopo,Australia,1,10
+1,Who is high-risk for COVID-19?,Children,Teens,Adults,Elderly,4,10
+1,How can I protect myself from COVID-19?,Wear a mask,Social Distance,Wash with soap and water,All of the above,4,10
+1,How long does it take to exhibit COVID-19 Symptoms?,0-1 Days,1-14 Days,1-25 Days,1-30 Days,2,10
+2,Do 5G Mobile Networks cause COVID-19?,True,False,2,10
+2,Does disinfecting frequently touched surfaces slow the spread of COVID-19?,True,False,1,10
+2,Is COVID-19 more dangerous for people with comorbidities?,True,False,1,10
+2,Is sanitiser with 70% alcohol a viable alternative to cleaning your hands with soap and water?,True,False,1,10

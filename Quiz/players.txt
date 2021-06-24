@@ -1,0 +1,15 @@
+Mikhail,240
+Mikhail,230
+Shaun,210
+Mikhail,200
+Mikhail,120
+Mae,170
+John,80
+Haseena,220
+Nazeer,120
+Edward,210
+M,210
+Lewis,200
+Rick,210
+Jerry,100
+Mary,60

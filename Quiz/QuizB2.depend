@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1623081169 source:c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program beta 2\quizb2\main.cpp
+	"Question.h"
+	"player.h"
+	<iostream>
+	<vector>
+	<stack>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<string>
+	<random>
+	<stdlib.h>
+
+1623075773 source:c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program beta 2\quizb2\src\question.cpp
+	"Question.h"
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<sstream>
+	<fstream>
+
+1623057071 c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program beta 2\quizb2\include\question.h
+	<iostream>
+
+1623081611 source:c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program beta 2\quizb2\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1623076417 c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program beta 2\quizb2\include\player.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1623271883 source:c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program alpha 1\quizb2\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1623271883 c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program alpha 1\quizb2\include\player.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1623234264 source:c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program alpha 1\quizb2\src\question.cpp
+	"Question.h"
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<sstream>
+	<fstream>
+
+1623327497 c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program alpha 1\quizb2\include\question.h
+	<iostream>
+
+1623425684 source:c:\users\hasgo\desktop\university work\2021 semester 1\comp315\project\quiz program alpha 1\quizb2\main.cpp
+	"Question.h"
+	"player.h"
+	<iostream>
+	<vector>
+	<stack>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<string>
+	<random>
+	<stdlib.h>
+	<Windows.h>
+	<mmsystem.h>
+	<unistd.h>
+

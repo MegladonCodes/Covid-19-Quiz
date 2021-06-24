@@ -1,0 +1,8 @@
+1,What type of mask does the WHO reccomend you wear for protection?,2-Layer Fabric,Medical Mask,N95 Mask,Respirator,1,10
+1,How is COVID-19 transmitted?,Person to Person,Bat to Person,Dog to Person,Through WIFI,1,10
+1,In which way is it possible to be infected with COVID-19?,Breathing in droplets of the virus,Touching your eye without washing your hands,Touching the inside of your mouth without washing your hands,All of the above,4,10
+1,A pandemic is a: ?,Global Epidemic,A sudden rise in cases in a particular place,A large outbreak,A small outbreak,1,10
+2,Does garlic prevent COVID-19 from making you ill?,True,False,2,10
+2,Can my pet or animal contract COVID-19?,True,False,2,10
+2,Can extremely hot or cold weather kill COVID-19?,True,False,2,10
+2,Are people with HIV more at risk from COVID-19?,True,False,1,10

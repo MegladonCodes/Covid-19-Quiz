@@ -1,0 +1,8 @@
+1,When should you get tested for COVID-19?,If you have been in close contact with a COVID-19 positive person,If you display COVID-19 symptoms,1 & 2,Only when a doctor says,3,10
+1,How can we know if someone had COVID-19 in the past?,Use an Antibody test,Check their blood pressure,If they are from a particular area,We won't be able to,1,10
+1,Which of these is NOT a benefit of getting a COVID-19 vaccination?,Increase protection from COVID-19,You protect the people around you if you get sick,You can go to the pub whenever you want,You reduce the spread of COVID-19,3,10
+1,"Herd Immunity" is : ?,Indirect protection from a disease when a large group of a population is immune,When a herd of cattle can't get sick ,When a group of people are immune to a disease,None of the above,1,10
+2,Can using Hydroxychloroquine prevent COVID-19?,True,False,2,10
+2,Can the use of Ivermectin treat COVID-19 positive patients?,True,False,1,10
+2,Can you contract COVID-19 again after having and recovering from it? ,True,False,1,10
+2,Do the COVID-19 vaccines insert a tracking chip inside you?,True,False,2,10
